@@ -1,0 +1,16 @@
+
+public class StringsValidationCon25FebCW {
+
+	public static void main(String[] args) {
+		// Strings are immutable , Concat function for strings will assign to orginal variable until and unless we have assigned 
+		String S = "Java";
+		int X = 10;
+		S.concat("Testing");
+		//X+10;
+				System.out.println("To integer validation :" +X);
+				System.out.println("To String Concat :" +S);
+		S= S.concat("Testing");
+		System.out.println("To String Concat assignment:" +S);
+	}
+
+}

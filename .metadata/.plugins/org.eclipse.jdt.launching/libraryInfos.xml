@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="F:\TestAutomation" version="1.8.0_241">
+<bootpath>
+<entry path="F:\TestAutomation\jre\lib\resources.jar"/>
+<entry path="F:\TestAutomation\jre\lib\rt.jar"/>
+<entry path="F:\TestAutomation\jre\lib\sunrsasign.jar"/>
+<entry path="F:\TestAutomation\jre\lib\jsse.jar"/>
+<entry path="F:\TestAutomation\jre\lib\jce.jar"/>
+<entry path="F:\TestAutomation\jre\lib\charsets.jar"/>
+<entry path="F:\TestAutomation\jre\lib\jfr.jar"/>
+<entry path="F:\TestAutomation\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\TestAutomation\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\TestAutomation\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="F:\TestAutomation\JRE" version="1.8.0_241">
+<bootpath>
+<entry path="F:\TestAutomation\JRE\lib\resources.jar"/>
+<entry path="F:\TestAutomation\JRE\lib\rt.jar"/>
+<entry path="F:\TestAutomation\JRE\lib\sunrsasign.jar"/>
+<entry path="F:\TestAutomation\JRE\lib\jsse.jar"/>
+<entry path="F:\TestAutomation\JRE\lib\jce.jar"/>
+<entry path="F:\TestAutomation\JRE\lib\charsets.jar"/>
+<entry path="F:\TestAutomation\JRE\lib\jfr.jar"/>
+<entry path="F:\TestAutomation\JRE\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\TestAutomation\JRE\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\TestAutomation\JRE\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="F:\TestAutomation\Java\jdk1.8.0_241" version="1.8.0_241">
+<bootpath>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\resources.jar"/>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\rt.jar"/>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\sunrsasign.jar"/>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\jsse.jar"/>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\jce.jar"/>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\charsets.jar"/>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\jfr.jar"/>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\TestAutomation\Java\jdk1.8.0_241\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jre1.8.0_251" version="1.8.0_251">
+<bootpath>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_251\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_251\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

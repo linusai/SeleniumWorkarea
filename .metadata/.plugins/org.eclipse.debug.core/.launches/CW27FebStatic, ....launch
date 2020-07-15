@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+<stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Git-Java"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+<mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+<listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+<listEntry value="GITPackage.WhileLoopCW21Feb"/>
+<listEntry value="GITPackage.CW2MarMethodsPloyChildClass"/>
+<listEntry value="GITPackage.Conditions"/>
+<listEntry value="GITPackage.HW19Feb"/>
+<listEntry value="GITPackage.CW3MarAbstraction"/>
+<listEntry value="GITPackage.CW27FebClass"/>
+<listEntry value="GITPackage.CW2MarMethodsPloy"/>
+<listEntry value="GITPackage.CW4MarInterfaceExtends"/>
+<listEntry value="GITPackage.ForCw21Feb"/>
+<listEntry value="GITPackage.CW28FebInhertiance"/>
+<listEntry value="GITPackage.StringsValidationCon25FebCW"/>
+<listEntry value="GITPackage.CW3MarAbsIn"/>
+<listEntry value="GITPackage.DoWhile22Feb"/>
+<listEntry value="GITPackage.ArrayListValidation24Feb"/>
+<listEntry value="GITPackage.StringsValidation25FebCW"/>
+<listEntry value="GITPackage.CW28FebInhertianceExClass"/>
+<listEntry value="GITPackage.CW4Mar2Interface"/>
+<listEntry value="GITPackage.HwIncDec20Feb"/>
+<listEntry value="GITPackage.CW28FebPoly"/>
+<listEntry value="GITPackage.CW27FebStatic"/>
+<listEntry value="GITPackage.HW21Feb"/>
+<listEntry value="GITPackage.CW4MarInterface"/>
+<listEntry value="GITPackage.ArrayList24FebCW2"/>
+<listEntry value="GITPackage.CW28FebInhertClass"/>
+</listAttribute>
+<listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+<listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+<stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+<intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>
